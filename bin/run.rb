@@ -4,4 +4,4 @@ Octokit
 Pry
 AwesomePrint
 
-require_relative '../config/environment.rb'
+require_relative '../config/environment'
